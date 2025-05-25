@@ -1,8 +1,7 @@
 # YURI SON
 **Software Engineer**   
 Medical Imaging 관련 개발을 하고 있습니다.  
-지루한 것을 싫어하며, 식물을 사랑하는 사람입니다.  
-  
+
 soonuu217@gmail.com  
 <br/><br/>  
 
